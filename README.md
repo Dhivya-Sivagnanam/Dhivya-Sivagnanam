@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhivya-Sivagnanam
 - 👀 I’m interested in learning new things.  
-- 🌱 I’m currently learning to develop Scrum project in Jira Agile methodology...
+- 🌱 I’m currently learning to develop Scrum project in Jira Agile methodology
 
 
 <!---
